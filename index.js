@@ -4,9 +4,9 @@ var city=[
     ["beautiful","big","ancient"],
 ]
 
-var RomeInfo= city[0][2];
+var RomeInfo=city[0][2];
 var twoInfo=city[1][1];
 var ancientInfo=city[2][2];
 
-console.log(Romeinfo +" " + twoInfo +" " + ancientInfo);
+console.log(RomeInfo +" " + twoInfo +" " + ancientInfo);
 
